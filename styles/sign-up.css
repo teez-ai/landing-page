@@ -1,0 +1,33 @@
+.sign-up.section {
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sign-up.container {
+  padding: 30px;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 15px;
+  margin: 0 10% ;
+  flex: 1;
+}
+.sign-up.left-side {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  margin-right: 15px;
+}
+.sign-up.right-side {
+  display: flex;
+  
+}
+.sign-up.header {
+  font-weight: 700;
+  font-size: 21px;
+  margin-bottom: 3px;
+}
+.sign-up.btn {
+  border: solid 2px white;
+
+}

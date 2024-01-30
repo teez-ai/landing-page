@@ -1,0 +1,9 @@
+.footer.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 12vh;
+}
+.footer.copyright {
+  font-size: 12px;
+}

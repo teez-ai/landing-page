@@ -1,0 +1,36 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.section {
+  padding: 10px 20px;
+}
+.container {
+  display: flex;
+}
+.btn, .sign-up.container {
+  background-color: #3882F6;
+  color: #f9faf8;
+}
+.btn {
+  font-weight: 600;
+  padding: 6px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.btn:hover {
+  background-color: #f9faf8;
+  color: #3882F6;
+}
+
+
+
+
+
+

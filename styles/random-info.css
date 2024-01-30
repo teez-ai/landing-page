@@ -1,0 +1,27 @@
+.random-info.section {
+  height: 50vh;
+}
+.random-info.header {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.random-info.container {
+  flex: 1 auto;
+  align-items: flex-start;
+  justify-content: center;
+  margin: 0 12%;
+}
+.flex-item {
+  padding: 30px 0 25px 0;
+  text-align: center;
+  width: 50%;
+  margin-right: 5px;
+}
+.flex-item > img {
+  width: 100px;
+  height: 100px; 
+}
+.flex-item > p { 
+  font-size: 12px; 
+}
